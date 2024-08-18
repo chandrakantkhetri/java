@@ -1,5 +1,5 @@
 
-package javaprogram;
+package chandu;
 
 import java.util.Scanner;
 
