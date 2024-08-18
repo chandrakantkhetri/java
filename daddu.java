@@ -1,9 +1,9 @@
 
-package pandit;
+package javaprogram;
 
 import java.util.Scanner;
 
-public class daddu {
+public class adding {
     public static void main(String[] args) {
         System.out.println("  Enter  Number from 100 to 200");
         Scanner sc = new Scanner(System.in);
